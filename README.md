@@ -28,5 +28,6 @@ https://www.rockpapershotgun.com/wordle-past-answers
 
 To run the code:
 
-Please download the requirements and run every cell in order.
+1, Download the jupyter notebook andd ataset 
+2, Run every cell in order
 
